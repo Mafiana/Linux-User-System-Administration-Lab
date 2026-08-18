@@ -1,7 +1,5 @@
 # Linux-User-System-Administration-Lab
 
-# Linux User & System Administration Lab
-
 **Environment:** Ubuntu / Kali (VirtualBox home lab)
 **Category:** IT Support / System Administration
 **Author:** Mafiana
