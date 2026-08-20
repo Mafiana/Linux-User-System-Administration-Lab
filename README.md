@@ -1,12 +1,8 @@
 # Linux-User-System-Administration-Lab
 
-**Environment:** Ubuntu / Kali (VirtualBox home lab)
-**Category:** IT Support / System Administration
-**Author:** Mafiana
-
 ## Overview
 
-This lab covers the full lifecycle of Linux user account management — creation, configuration, privilege escalation, auditing, and safe cleanup — practiced hands-on in a virtualized Ubuntu/Kali environment. The goal was to build practical command-line fluency in tasks a real IT support or SOC analyst role would require: provisioning accounts, managing access, troubleshooting permission errors, and maintaining a clean, auditable system.
+This lab covers the full lifecycle of Linux user account management — creation, configuration, privilege escalation, auditing, and safe cleanup,  practiced hands-on in a virtualized Ubuntu/Kali environment. The goal was to build practical command-line fluency in tasks a real IT support or SOC analyst role would require: provisioning accounts, managing access, troubleshooting permission errors, and maintaining a clean, auditable system.
 
 ## What I Did
 
@@ -38,6 +34,15 @@ This lab covers the full lifecycle of Linux user account management — creation
 | Add user to a group | `sudo usermod -aG groupname username` |
 | Check disk usage per user | `du -sh /home/username` |
 | Verify UID/GID/groups | `id username` |
+
+
+## Project Screenshot
+
+![Alt text](https://github.com/Mafiana/Linux-User-System-Administration-Lab/blob/main/screenshot/created%20user%20image.PNG?raw=true)
+
+![Alt text](https://github.com/Mafiana/Linux-User-System-Administration-Lab/blob/main/screenshot/delete%20users%20and%20remove%20direct.PNG?raw=true)
+
+
 
 ## Key Lessons
 
